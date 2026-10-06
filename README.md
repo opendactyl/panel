@@ -27,7 +27,7 @@ Stop settling for less. Make game servers a first class citizen on your platform
 I would like to extend my sincere thanks to the following sponsors for helping fund Pterodactyl's development.
 [Interested in becoming a sponsor?](https://github.com/sponsors/pterodactyl)
 
-### Supported Games
+## Supported Games
 
 Pterodactyl supports a wide variety of games by utilizing Docker containers to isolate each instance. This gives
 you the power to run game servers without bloating machines with a host of additional dependencies.
