@@ -59,7 +59,7 @@
         };
 
         packages.development = pkgs.dockerTools.buildImage {
-          name = "pterodactyl-oss/development";
+          name = "opendactyl/development";
           tag = "panel";
 
           copyToRoot = pkgs.buildEnv (let

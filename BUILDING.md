@@ -43,7 +43,7 @@ The second is the `PUBLIC_PATH` environment variable which is the URL pointing t
 the asset URLs used in Pterodactyl.
 
 #### Development Environment
-If you're using the [`pterodactyl-oss/development`](https://github.com/pterodactyl-oss/development) environments, which are
+If you're using the [`opendactyl/development`](https://github.com/opendactyl/development) environments, which are
 highly recommended, you can just run `yarn run serve` to run the HMR server, no additional configuration is necessary.
 
 ### Building for Production
