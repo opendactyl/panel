@@ -1,4 +1,4 @@
-[![Logo Image](https://cdn.pterodactyl.io/logos/new/pterodactyl_logo.png)](https://opendactyl.dev)
+[![Logo Image](https://github.com/user-attachments/assets/4195d68a-95d5-4afa-9e88-7e198fa3ab64)](https://opendactyl.dev)
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/opendactyl/panel/ci.yaml?label=Tests&style=for-the-badge&branch=1.0-develop)
 ![Discord](https://img.shields.io/discord/122900397965705216?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
